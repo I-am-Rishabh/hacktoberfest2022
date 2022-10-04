@@ -8,9 +8,8 @@ int t= sc.nextInt();
 for(int i=0;i<t;i++)
 {
 int a=sc.nextInt();
-int b=sc.nextInt()'
+int b=sc.nextInt();
 System.out.println(a+b);
-}
 }
 }
 }
